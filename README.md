@@ -1,4 +1,4 @@
-# oops-practice
+# Python-practice
 A collection of exercises and examples to practice Object-Oriented Programming (OOP) concepts in Python. Ideal for beginners to learn and master classes, objects, inheritance, polymorphism, encapsulation, and more.
 
 A **class** in programming is a blueprint for creating objects (specific instances of that class). It defines the properties (attributes) and behaviors (methods) that the objects created from the class will have.
